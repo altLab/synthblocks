@@ -1,0 +1,30 @@
+# Atari Punk Console
+
+A classic hardware synth design, easy to build and understand.
+
+## Materials
+
+ * 2x NE555
+ * 1x Ceramic Capacitor 10 nF
+ * 1x Ceramic Capacitor 100 nF
+ * 1x Electrolitic Capacitor 10 uF
+ * 1x Resistor 1 kOhm
+ * 2x Linear Potentiometers 500 kOhm
+ * 1x Logarithmic Potentiometer 5 kOhm
+ * 1x Speaker 8 Ohm
+ * 1x 9V Battery Adapter
+ * 1x SPST On/Off Switch
+ * 1x 9V Battery 
+
+## Build Instructions
+
+TODO
+
+## References
+
+ * [Classic Schematic](http://web.media.mit.edu/~stefanm/HowTo/Electronics.html)
+ * [Dual NE555 build](http://www.aronnelson.com/gallery/main.php/v/seljer/album114/apclayout_copy.gif.html)
+ * [Single NE556 build](http://lushprojects.com/apc/)
+ * [Circuit Simulation](http://lushprojects.com/circuitjs/)
+
+
